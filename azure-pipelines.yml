@@ -5,11 +5,11 @@
 
 variables:
   InjectAlmOctaneTasks: 'true'
-  AlmOctaneConnection33: 'qa53'
+  AlmOctaneConnection33: 'qa61'
   AlmOctaneConnection33Workspaces: '1002'
   ALMOctaneLogLevel: 'debug'
   system.debug: 'true'
-  GithubRepositoryConnection: 'mstekel'
+  GithubRepositoryConnection: 'github.com_elokshin'
 
 jobs:
 - job: AlmOctanePipelineStart
