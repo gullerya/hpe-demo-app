@@ -10,7 +10,7 @@ variables:
   ALMOctaneLogLevel: 'debug'
   system.debug: 'true'
   system.debugContext: 'true'
-  GithubRepositoryConnection: 'github.com_elokshin'
+  GithubRepositoryConnection: 'elokshin'
 
 jobs:
 - job: AlmOctanePipelineStart
