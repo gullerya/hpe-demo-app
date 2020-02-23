@@ -9,6 +9,7 @@ variables:
   AlmOctaneConnection33Workspaces: '1002'
   ALMOctaneLogLevel: 'debug'
   system.debug: 'true'
+  system.debugContext: 'true'
   GithubRepositoryConnection: 'github.com_elokshin'
 
 jobs:
