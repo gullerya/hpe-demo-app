@@ -73,7 +73,7 @@ public class UtilsTest {
 		String[] result = Utils.nodify("/api/some/more");
 		assertEquals(true, true);
 	}
-
+//test
 	@Test
 	public void testSimpleLogical() {
 		boolean result = Utils.simpleLogical();
