@@ -79,4 +79,10 @@ public class UtilsTest {
 //		boolean result = Utils.simpleLogical();
 //		assertTrue(result);
 //	}
+//test
+	@Test
+	public void testSimpleLogical() {
+		boolean result = Utils.simpleLogical();
+		assertTrue(result);
+	}
 }
