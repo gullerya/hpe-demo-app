@@ -74,6 +74,8 @@ public class UtilsTest {
 		assertEquals(true, true);
 	}
 
+
+	//alla
 	@Test
 	public void testSimpleLogical() {
 		boolean result = Utils.simpleLogical();
