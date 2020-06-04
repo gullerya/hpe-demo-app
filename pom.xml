@@ -47,21 +47,18 @@
                     <version>12.53.1-SNAPSHOT</version>
                 </dependency>
       </dependencies>
-    </profile>
-	</profiles>
-	
-	<repositories>
-        <repository>
-            <id>mqm-public</id>
-            <url>http://mydtbld0051.hpeswlab.net:8081/nexus/content/repositories/mqm-public</url>
-        </repository>
-    </repositories>
-
-    <pluginRepositories>
-        <pluginRepository>
-            <id>mqm-public</id>
-            <url>http://mydtbld0051.hpeswlab.net:8081/nexus/content/repositories/mqm-public</url>
-        </pluginRepository>
-    </pluginRepositories>
-	
+</profile>
+</profiles>
+<repositories>
+<repository>
+	<id>mqm-public</id>
+	<url>http://nexus.almoctane.com:8081/content/repositories/mqm-public</url>
+</repository>
+</repositories>
+	<pluginRepositories>
+	<pluginRepository>
+<id>mqm-public</id>
+<url>http://nexus.almoctane.com:8081/content/repositories/mqm-public</url>
+</pluginRepository>
+</pluginRepositories>
 </project>
