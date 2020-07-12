@@ -71,6 +71,7 @@ public class BandTest {
     }
 
     @Test
+    //test
     public void bandTestC() {
         test.remove("name");
         test.remove("logo");
