@@ -84,6 +84,7 @@ public class BandTest {
 
     @Test
     @Ignore
+    //comment
     public void bandTestD() {
         Band band = new Band(test);
         Assert.assertEquals(test.toString(), band.toJSON().toString());
