@@ -110,7 +110,7 @@ public class TestSuiteB {
             e.printStackTrace();
         }
     }
-// test
+
     @AfterClass(alwaysRun = true)
     public void afterClass() {
         driver.quit();
