@@ -69,7 +69,7 @@ public class BandTest {
             Assert.assertEquals(e.getMessage(), "json must have an id property");
         }
     }
-
+//asdfasf
     @Test
     public void bandTestC() {
         test.remove("name");
