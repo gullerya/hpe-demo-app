@@ -51,6 +51,7 @@ public class CalcsTest {
 		assertTrue(Calcs.nonEqual(0, 1));
 	}
 //add comment
+//add comment
 	@Test
 	public void neq_test_B() {
 		assertTrue(Calcs.nonEqual(-1, 0));
