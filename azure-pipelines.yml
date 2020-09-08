@@ -18,7 +18,7 @@ jobs:
 
 - job: A
   steps:
-  - script: echo Hello, Job A!
+  - bash: echo $(Build.SourceBranchName)
     displayName: 'Run a one-line script'
   dependsOn:
   - AlmOctanePipelineStart
