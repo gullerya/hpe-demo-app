@@ -19,6 +19,7 @@ public class CalcsTest {
 //yet another comment...
 	@Test
 	public void sum_test_A() {
+		String password="password";
 		assertEquals(3, Calcs.sum(1,5));
 	}
 
