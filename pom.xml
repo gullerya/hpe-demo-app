@@ -28,9 +28,7 @@
             <artifactId>maven-surefire-plugin</artifactId>
             <!-- Minimal supported version is 2.4 -->
             <version>2.19.1</version>
-		  <configuration>
-				<testFailureIgnore>true</testFailureIgnore>
-			</configuration>
+		 
             <configuration>
               <properties>
                 <property>
