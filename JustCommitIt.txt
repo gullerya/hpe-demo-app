@@ -1,9 +1,2 @@
 def
 template git
-commit
-commit1
-commit 3
-random commit
-defect
-user story
-ededede
