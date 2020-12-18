@@ -29,7 +29,6 @@
             <!-- Minimal supported version is 2.4 -->
             <version>2.19.1</version>
             <configuration>
-		   <testFailureIgnore>true</testFailureIgnore>
               <properties>
                 <property>
                   <name>listener</name>
