@@ -55,12 +55,12 @@ public class CalcsTest {
 //add comment
 	@Test
 	public void neq_test_B() {
-		assertTrue(Calcs.nonEqual(0, 0));
+		assertTrue(Calcs.nonEqual(0, 3));
 	}
 
 	@Test
 	public void neq_test_C_BrokenTest() {
-		assertTrue(Calcs.nonEqual(5, 5));
+		assertTrue(Calcs.nonEqual(5, 1));
 	}
 
 	@Test
