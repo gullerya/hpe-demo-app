@@ -9,7 +9,7 @@ import java.security.InvalidParameterException;
  * User: gullery
  * Date: 24/12/14
  * Time: 10:03
- * To change this template use File | Settings | File Templates.
+ * To change this template use File | Settings | File Templates. gwdfg
  */
 public class Band {
 	public int id;
