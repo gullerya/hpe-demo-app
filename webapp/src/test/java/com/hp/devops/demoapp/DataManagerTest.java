@@ -37,6 +37,7 @@ public class DataManagerTest {
 	@Ignore
 	@Test
 	public void failTestForCoverageAnalysisB() {
+		public String newVulnerability;
 		DataManager.loadData();
 		Assert.assertEquals(true, true);
 	}
